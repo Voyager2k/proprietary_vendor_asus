@@ -22,6 +22,7 @@
 #    vendor/asus/tf201/proprietary/lib/libseccameraadaptor.so:obj/lib/libseccameraadaptor.so
 
 PRODUCT_COPY_FILES += \
+    vendor/asus/tf700t/proprietary/bin/bdaddrwriter:system/bin/bdaddrwriter \
     vendor/asus/tf201/proprietary/bin/sensors-config:system/bin/sensors-config \
     vendor/asus/tf201/proprietary/bin/glgps:system/bin/glgps \
     vendor/asus/tf201/proprietary/bin/tf_daemon:system/bin/tf_daemon \
