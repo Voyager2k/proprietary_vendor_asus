@@ -40,12 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/etc/firmware/nvavp_vid_ucode_alt.bin:system/etc/firmware/nvavp_vid_ucode_alt.bin \
     vendor/asus/tf201/proprietary/etc/firmware/camera/00-RS_M6Mo.bin:system/etc/firmware/camera/00-RS_M6Mo.bin \
     vendor/asus/tf201/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
-    vendor/asus/tf201/proprietary/lib/egl/libGLESv2_perfhud.so:system/lib/egl/libGLESv2_perfhud.so \
-    vendor/asus/tf201/proprietary/lib/egl/libEGL_perfhud.so:system/lib/egl/libEGL_perfhud.so \
-    vendor/asus/tf201/proprietary/lib/egl/libGLESv1_CM_perfhud.so:system/lib/egl/libGLESv1_CM_perfhud.so \
-    vendor/asus/tf201/proprietary/lib/egl/libGLESv2_tegra_impl.so:system/lib/egl/libGLESv2_tegra_impl.so \
-    vendor/asus/tf201/proprietary/lib/egl/libEGL_tegra_impl.so:system/lib/egl/libEGL_tegra_impl.so \
-    vendor/asus/tf201/proprietary/lib/egl/libGLESv1_CM_tegra_impl.so:system/lib/egl/libGLESv1_CM_tegra_impl.so \
     vendor/asus/tf201/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
     vendor/asus/tf201/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
     vendor/asus/tf201/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
@@ -95,6 +89,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/lib/libnvsystemuiext_jni.so:system/lib/libnvsystemuiext_jni.so \
     vendor/asus/tf201/proprietary/lib/libnvapputil.so:system/lib/libnvapputil.so \
     vendor/asus/tf201/proprietary/lib/libnvmm_manager.so:system/lib/libnvmm_manager.so \
+    vendor/asus/tf201/proprietary/lib/libnvmm_misc.so:system/lib/libnvmm_misc.so \
     vendor/asus/tf201/proprietary/lib/libnvtestio.so:system/lib/libnvtestio.so \
     vendor/asus/tf201/proprietary/lib/libnvasfparserhal.so:system/lib/libnvasfparserhal.so \
     vendor/asus/tf201/proprietary/lib/libnvmm_msaudio.so:system/lib/libnvmm_msaudio.so \
